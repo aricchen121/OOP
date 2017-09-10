@@ -29,16 +29,16 @@ public class two {
 	    	switch (month)
 	    	{
 	    	case 1: monthx = "January";
-	    			numOfDays = 31;
-	    			break;
+	    	numOfDays = 31;
+	    	break;
 	    	case 2: monthx = "Feburary";
 	    	if ((year % 4 == 0) && (year % 100 != 0) || (year % 400 == 0)) {
-	    			numOfDays = 29;
-	    			break; 
+	    	numOfDays = 29;
+	    	break; 
 	    	}
 	    	else {
-	    			numOfDays = 28;
-	    			break;
+	    	numOfDays = 28;
+	    	break;
 	    	}
 	    	
 	    	case 3: monthx = "March";
