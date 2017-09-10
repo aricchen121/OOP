@@ -1,0 +1,11 @@
+Enter string: 
+monday
+m
+o
+n
+d
+a
+y
+
+
+

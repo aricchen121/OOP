@@ -1,0 +1,2 @@
+Enter any string:madamimadam
+The input String is a palindrome.
