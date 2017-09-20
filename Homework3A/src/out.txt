@@ -1,0 +1,21 @@
+Apple
+Character at index 2:
+p
+Length of string:
+5
+Substring index 1 to 4:
+ppl
+Lowercase:
+apple
+Uppercase:
+APPLE
+Compare string:
+Blue
+String 1 equal to string 2?:
+false
+Get string:
+APPLE
+Turn to string:
+APPLE
+Convert interger to string:
+20
