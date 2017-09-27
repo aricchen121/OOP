@@ -8,6 +8,9 @@ public class Queens{
 	}
 	
 	/*
+	 * I learn about checking diagonals on the board from here:
+	 * http://www.geeksforgeeks.org/backtracking-set-3-n-queen-problem/
+	 * 
 	 * Returns true if queen can be placed in row r and column c.
 	 * The first (r-1) values are set for array x. 
 	 * Check ascending and descending diagonal for queen. 
@@ -42,6 +45,9 @@ public class Queens{
 	}
 	
 	/*
+	 * I learn about the backtracking way from here:
+	 * http://www.geeksforgeeks.org/backtracking-set-3-n-queen-problem/
+	 * 
 	 * Use backtracking to find placement of n queens on n x n chessboard. 
 	 */
 	public void placeNqueens(int r, int n) {
