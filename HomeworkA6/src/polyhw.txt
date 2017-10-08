@@ -1,0 +1,24 @@
+1a. Output: woof!, woof!, woof!
+Polymorphism
+
+b. public String toString() under cat is called
+
+c. Error!
+Method call is undefined for type object
+
+d. Pet@...
+It gives the memory location of p
+
+e. woof!
+Polymorphism
+
+f. Come here, kitty? ...Don't waste my time.
+
+g. Error!
+the argument is an int
+
+h. four
+Polymorphism
+
+i. Error!
+Wrong argument 
