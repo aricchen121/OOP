@@ -1,0 +1,6 @@
+Serialized data is saved in employee.txt file
+
+Deserializing Employee...
+First Name of Employee: Vivi
+Last Name of Employee: Lam
+Company Name: null
