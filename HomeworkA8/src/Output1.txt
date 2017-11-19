@@ -1,0 +1,9 @@
+Files in main diretory: C:\Users\America\Desktop\nov
+projecta
+	reviews
+		-> studysheet1.txt
+	-> test1.txt
+	-> test2.txt
+projectb
+	-> test11.txt
+	-> test12.txt
