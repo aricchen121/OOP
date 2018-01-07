@@ -1,3 +1,8 @@
+/*
+ * First homework for object oriented class.
+ * @ Aric Chen
+ */
+
 import java.math.*;
 import java.util.Scanner;
 public class two {
@@ -8,6 +13,7 @@ public class two {
 		
 		System.out.println("Enter ctrl z to exit");
 		System.out.print("Enter radius: ");
+		// User follows instructions
 		// User enter radius to find area 
 		while (input.hasNextDouble()){
 		double radius = input.nextDouble();
